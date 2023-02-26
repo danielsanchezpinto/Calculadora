@@ -50,7 +50,7 @@ public class Operacion {
 		  resultado = num1/num2; 
 	  	return resultado; 
 }
-	 public double potencia () { 
+	 public double potenciacion () { 
 		 double resultado=(int)Math.pow(num1, num2);
 		 return resultado;
 }

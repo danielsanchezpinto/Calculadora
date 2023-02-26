@@ -42,7 +42,7 @@ public class Principal {
             resul=c.divi();
             break;
         case "^":
-            resul=c.potencia();
+            resul=c.potenciacion();
             break;
         case "%":
             resul=c.modulo();
