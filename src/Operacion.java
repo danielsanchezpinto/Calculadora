@@ -54,8 +54,8 @@ public class Operacion {
 		 double resultado=(int)Math.pow(num1, num2);
 		 return resultado;
 }
-	 public double modulo () { 
-		 double resultado=num1%num2;
+	 public double raiz () { 
+		 double resultado=Math.sqrt(num1);
 		 return resultado;
 	 }
 	 public double leer() {

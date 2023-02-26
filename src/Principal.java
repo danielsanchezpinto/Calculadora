@@ -45,7 +45,7 @@ public class Principal {
             resul=c.potenciacion();
             break;
         case "%":
-            resul=c.modulo();
+            resul=c.raiz();
             break;
         }
         System.out.println("Resultado operación:"+resul);
